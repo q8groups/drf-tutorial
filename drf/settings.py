@@ -132,3 +132,6 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.SessionAuthentication',
     )
 }
+
+
+ENCRYPTED_FIELDS_KEYDIR = os.path.join(BASE_DIR,'fieldkeys')

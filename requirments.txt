@@ -1,0 +1,8 @@
+Django==1.9.4
+django-encrypted-fields==1.1.2
+django-grappelli==2.8.1
+djangorestframework==3.3.3
+pyasn1==0.1.9
+pycrypto==2.6.1
+python-keyczar==0.715
+wheel==0.24.0
